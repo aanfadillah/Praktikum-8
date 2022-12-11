@@ -101,11 +101,12 @@ berikut data yang sudah diubah
 
 ini adalah output apabila memilih lihat (3)
 
-<img ![IMG-20221209-WA0012](https://user-images.githubusercontent.com/115763475/206898600-1a0599f7-16c9-40dd-8a14-65debbaa598b.jpg)
+![IMG-20221209-WA0012](https://user-images.githubusercontent.com/115763475/206898600-1a0599f7-16c9-40dd-8a14-65debbaa598b.jpg)
 
 ini adalah output apabila memilih hapus (4)
 
-<img width="201" alt="r4" src="https://user-images.githubusercontent.com/115542704/206633372-daefd529-009d-46e8-be7a-b5d06687388a.png">
+![IMG-20221209-WA0009](https://user-images.githubusercontent.com/115763475/206898686-9f3d773b-8e86-44f9-8296-4766f34ed8f8.jpg)
+
 
 berikut tampilan data yang telah terhapus
 
