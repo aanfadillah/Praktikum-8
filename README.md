@@ -11,9 +11,7 @@
 
 ![diagramClass](https://user-images.githubusercontent.com/115542704/206462308-ab57022f-da40-422a-9e52-1c59252d2123.png)
 
-## Flowchart
 
-![flowchart (3)](https://user-images.githubusercontent.com/115542704/206462353-41fd2d95-2329-4f92-9403-e679c5bc1784.png)
 
 ## Program
 
@@ -116,6 +114,10 @@ berikut tampilan data yang telah terhapus
 ini adalah output apabila memilih keluar (5)
 
 ![IMG-20221209-WA0010](https://user-images.githubusercontent.com/115763475/206898792-9167d4c9-ef50-48eb-808a-d5979b83a256.jpg)
+
+## Flowchart
+
+![flowchart (3)](https://user-images.githubusercontent.com/115542704/206462353-41fd2d95-2329-4f92-9403-e679c5bc1784.png)
 
 
 # SEKIAN TERIMAKASIH
