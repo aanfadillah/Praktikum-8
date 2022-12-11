@@ -93,11 +93,11 @@ ini adalah output apabila memilih untuk tambah lagi
 
 ini adalah output apabila memilih ubah (2)
 
-<img ![IMG-20221209-WA0013](https://user-images.githubusercontent.com/115763475/206898032-04e713c0-c007-4ba1-9762-0f46c8156ee0.jpg)
+![IMG-20221209-WA0013](https://user-images.githubusercontent.com/115763475/206898032-04e713c0-c007-4ba1-9762-0f46c8156ee0.jpg)
 
 berikut data yang sudah diubah
 
-<img ![IMG-20221209-WA0012](https://user-images.githubusercontent.com/115763475/206898115-b922645f-3c38-4f6d-a88d-7647737eda2d.jpg)
+![IMG-20221209-WA0012](https://user-images.githubusercontent.com/115763475/206898115-b922645f-3c38-4f6d-a88d-7647737eda2d.jpg)
 
 ini adalah output apabila memilih lihat (3)
 
