@@ -88,7 +88,8 @@ ini adalah output apabila memilih tambah (1)
 
 ini adalah output apabila memilih untuk tambah lagi
 
-<img width="226" alt="r1 1" src="https://user-images.githubusercontent.com/115542704/206633055-4569f90b-0861-4eac-85e8-411aea622759.png">
+![IMG-20221209-WA0014](https://user-images.githubusercontent.com/115763475/206890528-1cc05cbf-5dce-432f-9934-de36dd6746f7.jpg)
+
 
 ini adalah output apabila memilih ubah (2)
 
