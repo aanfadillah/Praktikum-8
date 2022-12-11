@@ -83,7 +83,8 @@ else:
 
 ini adalah output apabila memilih tambah (1)
 
-<img width="297" alt="r1" src="https://user-images.githubusercontent.com/115542704/206631985-7ed6f8b8-f580-4989-8749-174e4579e835.png">
+![IMG-20221209-WA0015](https://user-images.githubusercontent.com/115763475/206890436-535ba9dd-14ef-4e4f-93d6-dcfa506ed108.jpg)
+
 
 ini adalah output apabila memilih untuk tambah lagi
 
