@@ -115,6 +115,7 @@ berikut tampilan data yang telah terhapus
 
 ini adalah output apabila memilih keluar (5)
 
-<img width="233" alt="r5" src="https://user-images.githubusercontent.com/115542704/206634711-7843405a-c2a7-4a80-8428-b9cb22c58324.png">
+![IMG-20221209-WA0010](https://user-images.githubusercontent.com/115763475/206898792-9167d4c9-ef50-48eb-808a-d5979b83a256.jpg)
+
 
 # SEKIAN TERIMAKASIH
