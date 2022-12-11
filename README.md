@@ -93,7 +93,7 @@ ini adalah output apabila memilih untuk tambah lagi
 
 ini adalah output apabila memilih ubah (2)
 
-<img width="229" alt="r2" src="https://user-images.githubusercontent.com/115542704/206632264-37df1256-a3ee-4662-85a6-002f5dd6d76f.png">
+<img ![IMG-20221209-WA0013](https://user-images.githubusercontent.com/115763475/206898032-04e713c0-c007-4ba1-9762-0f46c8156ee0.jpg)
 
 berikut data yang sudah diubah
 
