@@ -101,7 +101,7 @@ berikut data yang sudah diubah
 
 ini adalah output apabila memilih lihat (3)
 
-<img width="422" alt="r3" src="https://user-images.githubusercontent.com/115542704/206634080-2e46eb8d-81f9-4799-9c38-eb5d04703c08.png">
+<img ![IMG-20221209-WA0012](https://user-images.githubusercontent.com/115763475/206898600-1a0599f7-16c9-40dd-8a14-65debbaa598b.jpg)
 
 ini adalah output apabila memilih hapus (4)
 
