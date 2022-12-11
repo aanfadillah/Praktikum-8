@@ -110,7 +110,8 @@ ini adalah output apabila memilih hapus (4)
 
 berikut tampilan data yang telah terhapus
 
-<img width="418" alt="r4 1" src="https://user-images.githubusercontent.com/115542704/206633747-6f3e7e1a-97ec-4768-9418-f9c78b2e64c7.png">
+![IMG-20221209-WA0011](https://user-images.githubusercontent.com/115763475/206898731-39d40408-cccc-4aaa-8af3-bc06764b9948.jpg)
+
 
 ini adalah output apabila memilih keluar (5)
 
