@@ -97,7 +97,7 @@ ini adalah output apabila memilih ubah (2)
 
 berikut data yang sudah diubah
 
-<img width="428" alt="r22" src="https://user-images.githubusercontent.com/115542704/206632858-f11bfb84-7e54-4232-86fe-632e51c896fb.png">
+<img ![IMG-20221209-WA0012](https://user-images.githubusercontent.com/115763475/206898115-b922645f-3c38-4f6d-a88d-7647737eda2d.jpg)
 
 ini adalah output apabila memilih lihat (3)
 
